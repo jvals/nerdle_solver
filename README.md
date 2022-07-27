@@ -70,7 +70,7 @@ is known to the program.
 The game loop looks like this:
 1. The user is prompted to put in an answer in the console.
 2. The game gives feedback of the form C (correct), M (misplaced) or E (excluded) as a sequence. 
-3. If the user has more attempts left, the return to 1.
+3. If the user has more attempts left, then return to 1.
 
 
 
